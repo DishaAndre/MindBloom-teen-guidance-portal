@@ -86,6 +86,7 @@ The platform focuses on creating a **non-judgmental, supportive, and educational
 
 ## 📁 Project Structure
 
+```
 mindbloom-teen-guidance-portal/
 │
 ├── frontend/
@@ -108,16 +109,13 @@ mindbloom-teen-guidance-portal/
 │
 ├── README.md
 └── .gitignore
-
-
----
-
+```
 ## How to Run the Project Locally
 
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/mindbloom-teen-guidance-portal.git
+git clone https: https://github.com/DishaAndre/mindbloom-teen-guidance-portal.git
 cd mindbloom-teen-guidance-portal
 ```
 

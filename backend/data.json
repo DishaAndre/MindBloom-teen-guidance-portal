@@ -42,6 +42,17 @@
       "password": "admin123",
       "role": "admin",
       "name": "Admin"
+    },
+    {
+      "id": "u1774942188427",
+      "username": "disha_05",
+      "password": "@123b1b078d",
+      "role": "child",
+      "name": "Disha",
+      "age": 12,
+      "badges": [
+        "first_question"
+      ]
     }
   ],
   "questions": [
@@ -95,6 +106,23 @@
       "isFlagged": false,
       "createdAt": "2024-01-18T11:00:00Z",
       "answeredAt": null
+    },
+    {
+      "id": "q1774942342640",
+      "userId": "u1774942188427",
+      "userName": "Disha",
+      "title": "hello kitty",
+      "content": "hellow kitty.",
+      "category": "Friendship Issues",
+      "isPrivate": true,
+      "isUrgent": true,
+      "status": "Answered",
+      "assignedTo": "c1",
+      "counselorName": "Dr. Priya Mehta",
+      "reply": "Thank you for trusting us with this. It takes courage to reach out, and what you are feeling is completely valid.",
+      "isFlagged": false,
+      "createdAt": "2026-03-31T07:32:22.640Z",
+      "answeredAt": "2026-03-31T07:33:33.824Z"
     }
   ],
   "articles": [
